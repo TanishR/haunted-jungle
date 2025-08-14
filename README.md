@@ -1,6 +1,7 @@
 # Jungle Cabin Scene
 
-![A short animation from the jungle cabin scene](media/preview.gif)
+![A short animation from the jungle cabin scene](media/preview_1.gif)
+![A short animation from the jungle cabin scene](media/preview_2.gif)
 
 ---
 
