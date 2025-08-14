@@ -1,7 +1,6 @@
 # Jungle Cabin Scene
 
 ![A short animation from the jungle cabin scene](media/preview_1.gif)
-![A short animation from the jungle cabin scene](media/preview_2.gif)
 
 ---
 
@@ -24,6 +23,8 @@ This is a Blender project file for a realistic jungle cabin scene. The scene fea
 ## Inspiration
 
 The artistic and stylistic direction for this project was heavily inspired by the work of **Covingsworth** on YouTube. Their tutorials and projects were a great source of learning and creative ideas.
+
+![A short animation from the jungle cabin scene](media/preview_2.gif)
 
 ---
 
